@@ -1,0 +1,13 @@
+node_modules
+/.idea/
+/.git/
+/docs/
+/examples/
+/experiments/
+/src/
+/test/
+/assets/
+/prototype/
+/dist/
+webpack.config.js
+README.md
